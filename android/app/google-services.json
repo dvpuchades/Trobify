@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572543927357",
+    "firebase_url": "https://trobify-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "trobify",
+    "storage_bucket": "trobify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572543927357:android:cdfc074f948dbcd1d09654",
+        "android_client_info": {
+          "package_name": "com.mikasa.trobify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572543927357-sa1coo5uedduknjorqdg3bhtl8rgs329.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikasa.trobify",
+            "certificate_hash": "b7cfb1b5f490140091a718bc3bbcf1f32bbeac59"
+          }
+        },
+        {
+          "client_id": "572543927357-julrq9a7i1d24qiu2b7hknrmfieiems6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByimGuhLi835TvXPQo2wqPHbskAjYOgzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572543927357-julrq9a7i1d24qiu2b7hknrmfieiems6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572543927357-pt910eru7ighaj22h9t3ae7ifab6dbud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mikasa.trobify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
